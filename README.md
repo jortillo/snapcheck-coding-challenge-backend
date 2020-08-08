@@ -7,7 +7,7 @@
 - Visual Studio Code
 
 ## How to Run
-Run java program Encryption.java into terminal and input a string.
+Compile and run java program Encryption.java in terminal. To compile, type javac Encryption.java. Then type java Encryption to run. Upon execution of java program, you will be asked to input a string.
 String must be of length 1-81 and contain only characters of ascii range[a-z].
 
 ## Coding Challenge Description 
