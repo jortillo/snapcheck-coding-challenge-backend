@@ -6,7 +6,7 @@
 - Java
 - Visual Studio Code
 
-## Task Description 
+## Coding Challenge Description 
 Description taken from https://github.com/mountainowl/snapcheck-internship-2020/tree/master/backend
 
 # Encryption
