@@ -7,7 +7,7 @@
 - Visual Studio Code
 
 ## Task Description 
-taken from https://github.com/mountainowl/snapcheck-internship-2020/tree/master/backend
+Taken from https://github.com/mountainowl/snapcheck-internship-2020/tree/master/backend
 
 # Encryption
 
